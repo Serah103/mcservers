@@ -34,7 +34,7 @@ mcservers --export <export>
 ```bash
 pip install git+https://github.com/andrey4ik21pro1/mcservers.git
 ```
-3. **Run**:
+2. **Run**:
 ```bash
 python -m mcservers
 ```
