@@ -37,11 +37,15 @@ def main():
 
     if args.export is not None:
         export_path = Path(args.export).resolve()
-        export_path.parent.mkdir(parents=True, exist_ok=True)
 
         if export_path.is_dir():
             timestamp = get_timestamp()
             export_path = export_path / f"servers_{timestamp}.txt"
+        else:
+            if export_path.suffix.lower() != ".txt":
+                export_path = export_path.with_suffix(".txt")
+
+        export_path.parent.mkdir(parents=True, exist_ok=True)
 
         nbt.export(export_path)
         print(f"Exported to {export_path}")
